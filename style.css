@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+  }
+  
+  header {
+    padding: 25px 0;
+  }
+  header .container {
+    display: flex;
+    gap: 60px;
+    align-items: center;
+    justify-content: end;
+  }
+  
+  .nav_item {
+    display: flex;
+    list-style: none;
+    gap: 60px;
+  }
+  .nav_item li a{
+     text-decoration: none;
+    color: black;
+  }
+   
+    
+.btn{
+    border-radius: 6px;
+background: #1617DB;
+width: 153.983px;
+height: 50.99px;
+}
+
+.birinchi-p-small{
+color: purple;
+}
+
+.birinchi h1{
+    color: #01010D;
+    font-family: Poppins;
+    font-size: 67px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; /* 80.4px */
+}
+
+.birinchi-p{
+    color: #01010D;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+}
+.birinchi-btn{
+    color: #6565EC;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+width: 153.983px;
+height: 50.99px;
+flex-shrink: 0;
+background: white;
+border-radius: 6px;
+}
+
+.birinchi img{
+    width: 869.102px;
+height: 509.783px;
+flex-shrink: 0;
+}
+
+#birinchi {
+    background: url('img/Rectangle\ 58.png');
+}
+.ikkinchi-p-small{
+    color: #1617DB;
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+    padding: 25px 0;
+}
+.ikkinchi-text h1{
+    color: #01010D;
+font-family: Poppins;
+font-size: 51px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 61.2px */
+}
+.ikkinchi-p-big{
+    color: #01010D;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+}
+
+.img-1{
+    background: palevioletred;
+    border-radius: 64px;
+    border: 1px solid palevioletred
+    width 302.617px;
+height: 388.411px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.img-2{
+    background-color: grey;
+    border-radius: 64px;
+    border: 1px solid grey
+    width 302.617px;
+height: 388.411px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.img-3{
+    background-color: grey;
+    border-radius: 64px;
+    width: 302.617px;
+height: 388.411px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+
+
+.text3 {
+    color: #01010D;
+font-family: Poppins;
+font-size: 51px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 61.2px */
+}
+.uchinchi-img{
+    width: 581.624px;
+height: 390.316px;
+}
+
+.text-a li a {
+    text-decoration: none;
+    color: black;
+
+
+}
+
+.text-a li {
+    list-style: none;
+}
+.text-a{
+    width:400px ;
+}
+
